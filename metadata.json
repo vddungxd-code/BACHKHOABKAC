@@ -1,0 +1,8 @@
+
+{
+  "name": "BKAC-Homes - Kiến Trúc & Xây Dựng Đắk Lắk",
+  "description": "Website chuyên thiết kế và thi công trọn gói nhà vườn, nhà phố phong cách hiện đại luxury tại Đắk Lắk với giá thành bình dân.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
